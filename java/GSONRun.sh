@@ -1,0 +1,1 @@
+java -cp ".:../../jars/gson-2.6.2.jar" GSON.JSONDecoder
